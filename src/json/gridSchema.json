@@ -1,0 +1,58 @@
+[ 
+  {
+    "field": "column1",
+    "width": 200,
+    "visible": true,
+    "minColumnWidth": 40,
+    "maxColumnWidth": 200
+  }, 
+  {
+    "field": "column2",
+    "width": 120,
+    "visible": true,
+    "minColumnWidth": 40,
+    "maxColumnWidth": 200
+  },
+  {
+    "field": "column3",
+    "width": 250,
+    "visible": true,
+    "minColumnWidth": 40,
+    "maxColumnWidth": 300
+  }, 
+  {
+    "field": "column4",
+    "width": 50,
+    "visible": true,
+    "minColumnWidth": 40,
+    "maxColumnWidth": 300
+  },
+  {
+    "field": "column5",
+    "width": 100,
+    "visible": true,
+    "minColumnWidth": 40,
+    "maxColumnWidth": 200
+  }, 
+  {
+    "field": "column6",
+    "width": 150,
+    "visible": true,
+    "minColumnWidth": 40,
+    "maxColumnWidth": 150
+  },
+  {
+    "field": "column7",
+    "width": 80,
+    "visible": true,
+    "minColumnWidth": 40,
+    "maxColumnWidth": 100
+  },
+  {
+    "field": "column8",
+    "width": 200,
+    "visible": true,
+    "minColumnWidth": 40,
+    "maxColumnWidth": 200
+  }
+]
