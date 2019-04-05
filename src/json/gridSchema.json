@@ -1,56 +1,70 @@
 [ 
   {
     "field": "column1",
-    "width": 200,
+    "width": 10,
     "visible": true,
     "minColumnWidth": 40,
     "maxColumnWidth": 200
   }, 
   {
     "field": "column2",
-    "width": 120,
+    "width": 10,
     "visible": true,
     "minColumnWidth": 40,
     "maxColumnWidth": 200
   },
   {
     "field": "column3",
-    "width": 250,
+    "width": 10,
     "visible": true,
     "minColumnWidth": 40,
     "maxColumnWidth": 300
   }, 
   {
     "field": "column4",
-    "width": 50,
+    "width": 10,
     "visible": true,
     "minColumnWidth": 40,
     "maxColumnWidth": 300
   },
   {
     "field": "column5",
-    "width": 100,
+    "width": 10,
     "visible": true,
     "minColumnWidth": 40,
     "maxColumnWidth": 200
   }, 
   {
     "field": "column6",
-    "width": 150,
+    "width": 10,
     "visible": true,
     "minColumnWidth": 40,
     "maxColumnWidth": 150
   },
   {
     "field": "column7",
-    "width": 80,
+    "width": 10,
     "visible": true,
     "minColumnWidth": 40,
     "maxColumnWidth": 100
   },
   {
     "field": "column8",
-    "width": 200,
+    "width": 10,
+    "visible": true,
+    "minColumnWidth": 40,
+    "maxColumnWidth": 200
+  },
+  {
+    "field": "column9",
+    "width": 10,
+    "visible": true,
+    "minColumnWidth": 40,
+    "maxColumnWidth": 200
+  },
+  {
+    "field": "column10",
+    "width": 10,
     "visible": true,
     "minColumnWidth": 40,
     "maxColumnWidth": 200
